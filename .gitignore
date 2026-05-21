@@ -1,0 +1,15 @@
+.DS_Store
+*.asv
+*.fig
+*.jpg~
+*.jpeg~
+*.tif~
+*.tiff~
+*.bmp~
+*.mat
+funzioniModello/
+progetto2.m
+slprj/
+codegen/
+specifica-progetto2.pdf
+immagini/
